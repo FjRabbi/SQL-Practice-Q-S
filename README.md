@@ -438,7 +438,7 @@ Here is the solutions of all the questions in sql-practice.com websites (25-02-2
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size:19px;line-height:107%;">&nbsp; <span style="color:#0070C0;">AND&nbsp;</span>birth_date &lt;= &apos;2010-12-31&rsquo;;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size:19px;line-height:107%;">&nbsp;</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size:19px;line-height:107%;">&nbsp;</span></p>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size:19px;line-height:107%;">&nbsp;</span></p>
+
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style="font-size:19px;line-height:107%;">Questions 9:&nbsp;</span></strong></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style="font-size:19px;line-height:107%;">Show the first_name, last_name, and height of the patient with the greatest height.</span></p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style="font-size:19px;line-height:107%;">Solution:</span></strong></p>
